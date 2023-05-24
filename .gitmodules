@@ -1,0 +1,3 @@
+[submodule "crazy_driver_1"]
+	path = crazy_driver_1
+	url = https://github.com/FABallemand/crazy_driver_1
